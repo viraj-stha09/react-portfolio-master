@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name": "Viraj Kumar Shrestha",
+    "occupation": "Wordpress developer @studiomatrix",
+    "description": "Wordpress Developer by Day, Enthusiastic Learner by Night. ",
+    "image": "PP_Viraj.jpeg",
+    "bio": "My name is Viraj Shrestha, I'm a Wordpress Developer. Currently I'm working at Studio Matrix Nepal and very eagger tp learn react ",
+    "contactmessage": "Get in touch when you want to have a chat.",
+    "email": "viraj.shrestha9@gmail.com",
+    "phone": "+997 9818899941",
+    "address": {
+      "street": "Yogbir Singh Marg, Nardevi ",
+      "city": "Kathmandu",
+      "state": "Nepal",
+      "zip": "44600"
+    },
+    "website": "http://virajkumarshrestha.com/",
+    "resumedownload": "http://virajkumarshrestha.com/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100005917243898",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/viraj-kumar-shrestha-031260124/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/vrajstha/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/viraj-stha09",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Prime College",
+        "degree": "Bachelor in Information Management",
+        "graduated": "October 2017",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Studio Matrix Nepal Pvt Ltd",
+        "title": "Assistant Web Developer",
+        "years": "June 2017 - Present",
+        "description": "Creating Wordpress theme and plugins"
+      },
+      {
+        "company": "Midas Stock Broking Company",
+        "title": "Freelancer Web Development Consultant",
+        "years": "March 2018 - May 2018",
+        "description": "Analyse the functional requirement of the websites"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Jquery",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Appointment Booking WooCommerce Plugin",
+        "category": "Wordpress",
+        "image": "AppointmentBooking.jpg",
+        "url": "https://wordpress.org/plugins/studio-matrix-session-booking/"
+      },
+      {
+        "title": "Travel Website",
+        "category": "Wordpress Website with multi Language",
+        "image": "trekking.jpg",
+        "url": "https://www.trekkingexplorationinhimalaya.com/"
+      },
+      {
+        "title": "Ecommerce Website",
+        "category": "ecommerce website with wordpress",
+        "image": "zen-profile-1.jpg",
+        "url": "https://zenfulbusiness.com.au/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Creative, Diligent and Confident- The three words that perfectly describes Mr. Viraj Kumar Shrestha. Viraj helped me during the branding process of Midas Stock Brokering Co. Pvt. Ltd.",
+        "user": "Priyash Shrestha"
+      },
+      {
+        "text": "During the course of Viraj Kumar Shrestha’s work, he witnesses the events himself and advised the school administration what would be the best way of doing things in the field of digital marketing. we found Viraj pretty active and meticulous in carrying out whatever task we assigned to him.",
+        "user": "NP Sharma"
+      }
+    ]
+  }
+}
